@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv_dragView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/rectangle_10dp_red_bg_shape"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:singleLine="true"
+    android:paddingRight="8dp"
+    android:paddingLeft="8dp"
+    android:paddingTop="2dp"
+    android:paddingBottom="2dp"
+    android:textSize="11sp"
+    android:textColor="@android:color/white"
+    />
